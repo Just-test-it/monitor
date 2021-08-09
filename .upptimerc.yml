@@ -8,12 +8,12 @@ sites:
   - name: 小石同学
     url: https://blog.shiyunhong.com
   - name: My Aria2 Server
-    url: $myaria2server
+    url: $URL_OF_Aria2
     expectedStatusCodes:
       - 200
       - 201
       - 404
-  - name: 内向的.人(neixiangde.ren0
+  - name: 内向的.人(neixiangde.ren)
     url: https://neixiangde.ren
   - name: 小宋博客(cannon.org.cn)
     url: https://cannon.org.cn/
