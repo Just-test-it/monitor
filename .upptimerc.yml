@@ -2,9 +2,23 @@
 owner: Just-test-it # Your GitHub organization or username, where this repository lives
 repo: monitor # The name of this repository
 user-agent: xsaction
-sites:
+sites:  
+  - name: Index
+    url: https://shiyunhong.com
   - name: 小石同学
     url: https://blog.shiyunhong.com
+  - name: My Aria Server
+    url: $myaria2server
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 404
+  - name: 内向的.人(neixiangde.ren0
+    url: https://neixiangde.ren
+  - name: 小宋博客(cannon.org.cn)
+    url: https://cannon.org.cn/
+  - name: YoungFree(youngfree.cn)
+    url: https://www.youngfree.cn/
   - name: Google
     url: https://www.google.com
   - name: Wikipedia
@@ -13,11 +27,12 @@ sites:
     url: https://news.ycombinator.com
 
 
+
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: monitor.b23.fun
-  # baseUrl: /your-repo-name
+  #cname: monitor.b23.fun
+  baseUrl: /monitor
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: XS Monitor
   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
@@ -30,7 +45,7 @@ status-website:
       href: /
     - title: GitHub
       href: https://github.com/Just-test-it/monitor
-  #theme: light
+  theme: light
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
