@@ -7,7 +7,7 @@ sites:
     url: https://shiyunhong.com
   - name: 小石同学
     url: https://blog.shiyunhong.com
-  - name: My Aria Server
+  - name: My Aria2 Server
     url: $myaria2server
     expectedStatusCodes:
       - 200
