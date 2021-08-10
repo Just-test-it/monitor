@@ -8,7 +8,7 @@ sites:
   - name: 小石同学(blog.shiyunhong.com)
     url: https://blog.shiyunhong.com
   - name: My Aria2 Server
-    url: $URL_OF_Aria2
+    url: $URL_OF_ARIA2
     expectedStatusCodes:
       - 200
       - 201
