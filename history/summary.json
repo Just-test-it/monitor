@@ -77,18 +77,18 @@
     "icon": "https://favicons.githubusercontent.com/www.youngfree.cn",
     "slug": "young-free-youngfree-cn",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.98%",
+    "uptimeDay": "99.79%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
     "time": 1904,
     "timeDay": 1648,
     "timeWeek": 1684,
     "timeMonth": 1904,
     "timeYear": 1904,
     "dailyMinutesDown": {
-      "2021-08-18": 0
+      "2021-08-18": 3
     }
   },
   {
