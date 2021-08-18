@@ -76,9 +76,9 @@
     "url": "https://www.youngfree.cn",
     "icon": "https://favicons.githubusercontent.com/www.youngfree.cn",
     "slug": "young-free-youngfree-cn",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -87,7 +87,9 @@
     "timeWeek": 1684,
     "timeMonth": 1904,
     "timeYear": 1904,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-08-18": 0
+    }
   },
   {
     "name": "V2ex",
