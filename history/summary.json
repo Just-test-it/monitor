@@ -45,11 +45,11 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "my-aria2-server",
     "status": "up",
-    "uptime": "96.66%",
+    "uptime": "96.67%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "94.72%",
     "uptimeMonth": "94.47%",
-    "uptimeYear": "96.66%",
+    "uptimeYear": "96.67%",
     "time": 696,
     "timeDay": 573,
     "timeWeek": 522,
@@ -72,11 +72,11 @@
     "icon": "https://favicons.githubusercontent.com/cannon.org.cn",
     "slug": "cannon-org-cn",
     "status": "up",
-    "uptime": "90.60%",
+    "uptime": "90.62%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "90.44%",
-    "uptimeYear": "90.60%",
+    "uptimeYear": "90.62%",
     "time": 1433,
     "timeDay": 1509,
     "timeWeek": 1562,
@@ -104,18 +104,18 @@
     "icon": "https://favicons.githubusercontent.com/www.youngfree.cn",
     "slug": "young-free-youngfree-cn",
     "status": "down",
-    "uptime": "15.71%",
+    "uptime": "15.68%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "15.71%",
+    "uptimeYear": "15.68%",
     "time": 1021,
     "timeDay": 356,
     "timeWeek": 269,
     "timeMonth": 275,
     "timeYear": 1021,
     "dailyMinutesDown": {
-      "2021-11-12": 293,
+      "2021-11-12": 526,
       "2021-11-11": 1440,
       "2021-11-10": 1440,
       "2021-11-09": 1440,
@@ -236,7 +236,7 @@
     "timeDay": 738,
     "timeWeek": 208,
     "timeMonth": 163,
-    "timeYear": 103,
+    "timeYear": 104,
     "dailyMinutesDown": {}
   },
   {
@@ -254,7 +254,7 @@
     "timeDay": 436,
     "timeWeek": 315,
     "timeMonth": 346,
-    "timeYear": 212,
+    "timeYear": 213,
     "dailyMinutesDown": {
       "2021-10-21": 21
     }
@@ -274,7 +274,7 @@
     "timeDay": 323,
     "timeWeek": 318,
     "timeMonth": 331,
-    "timeYear": 379,
+    "timeYear": 378,
     "dailyMinutesDown": {
       "2021-10-08": 26
     }
