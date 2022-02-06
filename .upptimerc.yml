@@ -14,8 +14,6 @@ sites:
       - 404
   - name: 小宋博客(cannon.org.cn)
     url: https://cannon.org.cn
-  - name: YoungFree(youngfree.cn)
-    url: https://www.youngfree.cn
   - name: V2ex
     url: https://v2ex.com
   - name: Google
