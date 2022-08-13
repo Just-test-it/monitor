@@ -4,7 +4,7 @@ repo: monitor # The name of this repository
 user-agent: xsaction
 sites:  
   - name: Index
-    url: https://shiyunhong.com
+    url: https://www.shiyunhong.com
   - name: 小石同学(blog.shiyunhong.com)
     url: https://blog.shiyunhong.com
   - name: My Aria2 Server
