@@ -8,12 +8,12 @@
     "uptime": "88.64%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.91%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "87.56%",
     "time": 741,
     "timeDay": 2375,
     "timeWeek": 1580,
-    "timeMonth": 1443,
+    "timeMonth": 946,
     "timeYear": 757,
     "dailyMinutesDown": {
       "2022-08-13": 608,
@@ -82,7 +82,7 @@
     "time": 401,
     "timeDay": 811,
     "timeWeek": 964,
-    "timeMonth": 617,
+    "timeMonth": 626,
     "timeYear": 405,
     "dailyMinutesDown": {
       "2022-08-13": 686,
@@ -99,7 +99,7 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "my-aria2-server",
     "status": "up",
-    "uptime": "76.67%",
+    "uptime": "76.68%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -107,7 +107,7 @@
     "time": 1082,
     "timeDay": 399,
     "timeWeek": 495,
-    "timeMonth": 488,
+    "timeMonth": 490,
     "timeYear": 1129,
     "dailyMinutesDown": {
       "2022-08-08": 184,
@@ -248,7 +248,7 @@
     "time": 1448,
     "timeDay": 1495,
     "timeWeek": 1810,
-    "timeMonth": 1779,
+    "timeMonth": 1777,
     "timeYear": 1458,
     "dailyMinutesDown": {
       "2022-09-08": 401,
@@ -297,7 +297,7 @@
     "time": 436,
     "timeDay": 89,
     "timeWeek": 742,
-    "timeMonth": 420,
+    "timeMonth": 424,
     "timeYear": 428,
     "dailyMinutesDown": {
       "2022-08-24": 27,
@@ -326,7 +326,7 @@
     "time": 105,
     "timeDay": 76,
     "timeWeek": 198,
-    "timeMonth": 128,
+    "timeMonth": 130,
     "timeYear": 101,
     "dailyMinutesDown": {
       "2022-01-07": 18
@@ -346,7 +346,7 @@
     "time": 308,
     "timeDay": 108,
     "timeWeek": 221,
-    "timeMonth": 286,
+    "timeMonth": 281,
     "timeYear": 314,
     "dailyMinutesDown": {
       "2022-07-29": 22,
@@ -367,7 +367,7 @@
     "time": 365,
     "timeDay": 103,
     "timeWeek": 293,
-    "timeMonth": 266,
+    "timeMonth": 264,
     "timeYear": 367,
     "dailyMinutesDown": {
       "2022-07-08": 525,
