@@ -108,7 +108,7 @@
     "timeMonth": 6560,
     "timeYear": 2119,
     "dailyMinutesDown": {
-      "2023-01-25": 506,
+      "2023-01-25": 522,
       "2023-01-24": 1440,
       "2023-01-23": 1440,
       "2023-01-22": 1440,
@@ -360,7 +360,7 @@
     "slug": "cannon-org-cn",
     "status": "down",
     "uptime": "87.00%",
-    "uptimeDay": "99.97%",
+    "uptimeDay": "98.80%",
     "uptimeWeek": "63.89%",
     "uptimeMonth": "12.80%",
     "uptimeYear": "85.05%",
@@ -370,7 +370,7 @@
     "timeMonth": 2129,
     "timeYear": 1622,
     "dailyMinutesDown": {
-      "2023-01-25": 0,
+      "2023-01-25": 17,
       "2023-01-22": 776,
       "2023-01-21": 1440,
       "2023-01-20": 102,
@@ -499,9 +499,9 @@
     "slug": "wikipedia",
     "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "97.37%",
-    "uptimeWeek": "99.62%",
-    "uptimeMonth": "99.91%",
+    "uptimeDay": "96.21%",
+    "uptimeWeek": "99.46%",
+    "uptimeMonth": "99.88%",
     "uptimeYear": "99.99%",
     "time": 299,
     "timeDay": 265,
@@ -509,7 +509,7 @@
     "timeMonth": 282,
     "timeYear": 289,
     "dailyMinutesDown": {
-      "2023-01-25": 38,
+      "2023-01-25": 55,
       "2022-07-29": 22
     }
   },
