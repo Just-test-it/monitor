@@ -94,7 +94,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "my-aria2-server",
     "status": "down",
-    "uptime": "46.54%",
+    "uptime": "46.53%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -105,7 +105,7 @@
     "timeMonth": 13422,
     "timeYear": 5751,
     "dailyMinutesDown": {
-      "2023-06-02": 1211,
+      "2023-06-02": 1241,
       "2023-06-01": 1440,
       "2023-05-31": 1440,
       "2023-05-30": 1440,
@@ -429,7 +429,7 @@
     "timeMonth": 1531,
     "timeYear": 1830,
     "dailyMinutesDown": {
-      "2023-06-02": 1211,
+      "2023-06-02": 1241,
       "2023-06-01": 1440,
       "2023-05-31": 221,
       "2023-05-30": 288,
