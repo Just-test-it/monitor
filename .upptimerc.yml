@@ -9,7 +9,7 @@ sites:
     url: https://blog.shiyunhong.com
   - name: My Azure Server
     url: $Azure_Server_1
-  - name: LeZi的猫窝(cannon.org.cn)
+  - name: LeZi的猫窝(leziblog.cn)
     url: https://leziblog.cn
 
 
