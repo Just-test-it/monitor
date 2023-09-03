@@ -7,21 +7,10 @@ sites:
     url: https://www.shiyunhong.com
   - name: 小石同学(blog.shiyunhong.com)
     url: https://blog.shiyunhong.com
-  - name: My Aria2 Server
-    url: $URL_OF_ARIA2
-    expectedStatusCodes:
-      - 200
-      - 404
-  - name: 小宋博客(cannon.org.cn)
-    url: https://cannon.org.cn
-  - name: V2ex
-    url: https://v2ex.com
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://zh.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
+  - name: My Azure Server
+    url: $Azure_Server_1
+  - name: LeZi的猫窝(cannon.org.cn)
+    url: https://leziblog.cn
 
 
 
