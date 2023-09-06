@@ -63,18 +63,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/leziblog.cn.ico",
     "slug": "le-zi-leziblog-cn",
     "status": "down",
-    "uptime": "53.12%",
+    "uptime": "51.49%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "53.12%",
-    "uptimeMonth": "53.12%",
-    "uptimeYear": "53.12%",
+    "uptimeWeek": "51.49%",
+    "uptimeMonth": "51.49%",
+    "uptimeYear": "51.49%",
     "time": 2073,
     "timeDay": 0,
     "timeWeek": 2073,
     "timeMonth": 2073,
     "timeYear": 2073,
     "dailyMinutesDown": {
-      "2023-09-06": 388,
+      "2023-09-06": 521,
       "2023-09-05": 1440,
       "2023-09-04": 142
     }
