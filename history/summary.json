@@ -108,17 +108,19 @@
     "url": "$AZURE_SERVER_1",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "my-azure-server",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 145,
-    "timeDay": 208,
-    "timeWeek": 201,
-    "timeMonth": 184,
-    "timeYear": 143,
-    "dailyMinutesDown": {}
+    "timeDay": 355,
+    "timeWeek": 239,
+    "timeMonth": 194,
+    "timeYear": 144,
+    "dailyMinutesDown": {
+      "2024-09-13": 0
+    }
   }
 ]
