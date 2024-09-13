@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.shiyunhong.com.ico",
     "slug": "index",
     "status": "up",
-    "uptime": "91.26%",
+    "uptime": "91.27%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.87%",
@@ -108,19 +108,19 @@
     "url": "$AZURE_SERVER_1",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "my-azure-server",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "98.69%",
-    "uptimeWeek": "99.81%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "97.87%",
+    "uptimeWeek": "99.70%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.99%",
     "time": 146,
-    "timeDay": 286,
-    "timeWeek": 235,
-    "timeMonth": 196,
+    "timeDay": 290,
+    "timeWeek": 241,
+    "timeMonth": 199,
     "timeYear": 145,
     "dailyMinutesDown": {
-      "2024-09-13": 19
+      "2024-09-13": 31
     }
   }
 ]
