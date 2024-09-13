@@ -1,7 +1,7 @@
 url: $AZURE_SERVER_1
-status: down
-code: 502
-responseTime: 198
-lastUpdated: 2024-09-13T13:36:09.856Z
+status: up
+code: 200
+responseTime: 273
+lastUpdated: 2024-09-13T14:50:27.102Z
 startTime: 2023-09-03T08:19:00.757Z
 generator: Upptime <https://github.com/upptime/upptime>
